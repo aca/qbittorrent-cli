@@ -1,4 +1,4 @@
-module github.com/aca/kata/qbt
+module github.com/aca/qbittorrent-cli
 
 go 1.25.0
 
