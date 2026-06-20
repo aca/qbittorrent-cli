@@ -1,5 +1,6 @@
 # qbt
 
+qbittorrent CLI/TUI.
 Drive multiple qBittorrent instances as if they were one.
 
 ## Install
